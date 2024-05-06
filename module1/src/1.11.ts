@@ -43,4 +43,4 @@
   console.log({ permanentAddress });
 }
 // npm i -g ts-node-dev
-// ts-node-dev --respawn --transpile-only ./moudle1/src/1.11.ts
+// ts-node-dev --respawn --transpile-only ./module1/src/1.11.ts
